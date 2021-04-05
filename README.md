@@ -1,1 +1,1 @@
-# KhairoTech
+# KhairoTech Training
