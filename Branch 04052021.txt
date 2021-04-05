@@ -1,4 +1,5 @@
-DAY1
+FLOWCHARTING
+Flowchart is a graphical representation of a sequence of operations
 
 Studied the foundation, explained how the system flows using program flowchart.
 Tools: Genmymodel
