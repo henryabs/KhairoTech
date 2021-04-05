@@ -1,0 +1,6 @@
+DAY1
+
+Studied the foundation, explained how the system flows using program flowchart.
+Tools: Genmymodel
+
+Activity: Create ticketing system program flowchart
