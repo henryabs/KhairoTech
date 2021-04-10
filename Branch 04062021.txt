@@ -1,1 +1,7 @@
-DAY2
+  
+DATABASE DIAGRAM
+can refer to a visual representation of a database, a set of rules that govern a database, or to the entire set of objects belonging to a particular user
+
+Tools: https://app.dbdesigner.net/
+
+Activity: Create ticketing system database diagram
