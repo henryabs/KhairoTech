@@ -1,0 +1,4 @@
+Database diagram discussion and laravel first introduction
+Tools: https://app.dbdesigner.net/
+
+Activity: Create admin and register api
